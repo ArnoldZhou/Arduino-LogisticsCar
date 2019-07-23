@@ -1,9 +1,9 @@
 # Arduino-Logistics-car
-基于Arduino MEGA2560的智能物流小车(工程能力训练综合竞赛)
-CSDN：https://blog.csdn.net/weixin_38014640/article/details/88804048
+基于Arduino MEGA2560的智能物流小车
+
 
 ## 1.项目功能要求
-去年暑假前报了某比赛（工程训练能力综合竞赛），比赛要求是做一个智能物流小车。项目要求小车实现的功能有—“赛道自主行走、物料扫码识别、规避障碍、跨越减速带和栅格、码垛和规避循迹的功能。”
+项目模拟物流包裹自动分拣机器人。项目要求自主设计并组装一辆小车，需要实现的功能有 — “赛道自主行走、物料扫码识别、规避障碍、跨越减速带和栅格、码垛和规避循迹的功能。”
 
 ![比赛地图](https://img-blog.csdnimg.cn/20190325183444568.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODAxNDY0MA==,size_16,color_FFFFFF,t_70)
 
