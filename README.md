@@ -65,9 +65,6 @@ e.==小车爆炸图==
 
 2.0升级版本
 
-![](https://img-blog.csdnimg.cn/20190725095837748.gif)
-
-
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190325192927755.gif)
 
 
