@@ -64,7 +64,8 @@ e.==小车爆炸图==
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190724105347664.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODAxNDY0MA==,size_16,color_FFFFFF,t_70)
 
 2.0升级版本
-(https://img-blog.csdnimg.cn/20190725095837748.gif)
+
+![](https://img-blog.csdnimg.cn/20190725095837748.gif)
 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190325192927755.gif)
