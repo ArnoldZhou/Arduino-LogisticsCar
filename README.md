@@ -65,10 +65,10 @@ e.==小车爆炸图==
 
 2.0升级版本
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190725095837748.gif)
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190325192927755.gif)
 
-
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190325193011730.gif)
-
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190725095858749.gif)
